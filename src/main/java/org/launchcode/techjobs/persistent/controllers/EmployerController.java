@@ -11,8 +11,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Optional;
 
-
-
 @Controller
 @RequestMapping("employers")
 public class EmployerController {
